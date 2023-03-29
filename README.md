@@ -23,3 +23,7 @@ Please have a look at the [odas_web](https://github.com/introlab/odas_web) proje
 You can find more information about the methods implemented in ODAS in this paper: 
 
 * F. Grondin and F. Michaud, [Lightweight and Optimized Sound Source Localization and Tracking Methods for Opened and Closed Microphone Array Configurations](https://arxiv.org/pdf/1812.00115), Robotics and Autonomous Systems, 2019 
+
+Based on the MATRIX Creator and ODAS I am building my first sould localization tool 
+I am trying to understand the source code and the world of c++ 
+After all it's fun ... 
