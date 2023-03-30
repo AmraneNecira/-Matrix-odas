@@ -83,3 +83,7 @@ cd ~/odas/bin
 Make some noise! ... you should see a blue lights indicating where the sound is coming from.
 
 ![](./matrix-odas-running.gif)
+## References
+ - [Direction of Arrival for MATRIX Voice/Creator Using ODAS](https://www.hackster.io/matrix-labs/direction-of-arrival-for-matrix-voice-creator-using-odas-b7a15b#team)
+ - [Matrix Documentation](https://matrix-io.github.io/matrix-documentation/matrix-hal/overview/)
+ - [ODAS: Open embeddeD Audition System](https://github.com/introlab/odas)
